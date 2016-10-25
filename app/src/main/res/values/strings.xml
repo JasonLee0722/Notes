@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="hello">app/Hello</string>
+    <string name="Hi">app/Hi</string>
+    <string name="well">app/Well</string>
+    <string name="loading_dialog">widget/LoadingDialog</string>
+    <string name="loading_button">widget/LoadingButton</string>
+    <string name="popup_menu">widget/PopupMenu</string>
+</resources>
